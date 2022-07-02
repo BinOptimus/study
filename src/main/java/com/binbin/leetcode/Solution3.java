@@ -7,5 +7,7 @@ package com.binbin.leetcode;
  * @date 2022/07/02 17:58
  **/
 public class Solution3 {
-
+    public int lengthOfLongestSubstring(String s) {
+        return -1;
+    }
 }
